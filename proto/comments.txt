@@ -1,0 +1,14 @@
+# Setup
++  Developed on Mac
++  Tested with zsh shell
++  Python version - 3.7.3
++  Pandas module is a dependency to install
++  Homework solution filename is mps7_parser.py
+
+# Verify (in shell)
+$ python --version
+$ pip install pandas
+
+
+# Run (in shell)
+$ python mps7_parser.py

@@ -1,0 +1,18 @@
+# Setup
++  Developed on Mac environment
++  Python version - 3.7.3
++  Pandas module is a dependency to install
++  Numpy module is a dependency to install
++  Homework solution filename is slcsp_solution.py
+
+# Verify
+$ python --version
+$ pip install numpy
+$ pip install pandas
+
+
+# Run
+$ python slcsp_solution.py
+
+# Output
+I made a seperate directory for the output named out, so you can compare the difference between the files.  The updated slcsp.csv file will be there.
